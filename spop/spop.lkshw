@@ -1,0 +1,10 @@
+Version of workspace file format:
+               1
+Time of storage:
+               "Sat Jun  1 23:43:53 CEST 2013"
+Name of the workspace:
+               "spop"
+File paths of contained packages:
+               ["spop.cabal","main.hs"]
+Maybe file path of an active package:
+               Just "spop.cabal"

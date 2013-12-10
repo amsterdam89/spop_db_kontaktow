@@ -1,0 +1,8 @@
+1%Stefan%Bajer%Poso%536-432-545%2%3%1980
+2%Olek%Nowy%Hom%777-777-777%22%11%1988
+3%Piotr%Rana%Park%555-444-543%13%1%1976
+&4
+&1%Praca%1%2
+2%Rodzina%3%2
+&3
+&
